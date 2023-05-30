@@ -1,4 +1,4 @@
-package com.mutli.hello;
+package com.multi.hello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,7 @@ public class HelloApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloApplication.class, args);
+
 	}
 
 }
